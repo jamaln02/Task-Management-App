@@ -45,7 +45,7 @@ Open [http://localhost:5173] in your browser to see the application.
 ## Project Structure
 
 ```
-Task-Management-App/
+Task-Management/
 ├── src/
 │  │
 │  ├── logSystem/
