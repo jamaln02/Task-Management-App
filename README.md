@@ -80,15 +80,15 @@ Task-Management-App/
 
 ## Components
 
-- **`App.jsx`**: The main component that sets up routing and renders other components.
-- **`Header.jsx`**: Displays the navigation header with login, register, and logout options.
-- **`Home.jsx`**: The home page that displays the task list and provides options to add, edit, and delete tasks.
-- **`TaskList.jsx`**: Displays the list of tasks for the current user.
-- **`TaskItem.jsx`**: Represents a single task item.
-- **`TaskForm.jsx`**: A form to add tasks.
-- **`TaskEdit.jsx`**: A page to edit a specific task.
-- **`Login.jsx`**: A page for user login.
-- **`Register.jsx`**: A page for user registration.
+- **App.jsx**: The main component that sets up routing and renders other components.
+- **Header.jsx**: Displays the navigation header with login, register, and logout options.
+- **Home.jsx**: The home page that displays the task list and provides options to add, edit, and delete tasks.
+- **TaskList.jsx**: Displays the list of tasks for the current user.
+- **TaskItem.jsx**: Represents a single task item.
+- **TaskForm.jsx**: A form to add tasks.
+- **TaskEdit.jsx**: A page to edit a specific task.
+- **Login.jsx**: A page for user login.
+- **Register.jsx**: A page for user registration.
 
 
 ## How It Works
